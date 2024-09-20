@@ -26,7 +26,4 @@ export default connectDB;
 
 
 
-
-
-
 // const womProductsCollection = client.db("Bkash").collection("wom-ecomerce");
